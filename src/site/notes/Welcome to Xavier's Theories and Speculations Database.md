@@ -7,8 +7,7 @@
 
 <center><u>Foreword</u></center>
 
-<center>These speculations and theories are based on the English Dub and text of [Love and Deepspace](https://loveanddeepspace.infoldgames.com/en-EN/home) </center>
-
+>These speculations and theories are based on the English Dub and text of [Love and Deepspace](https://loveanddeepspace.infoldgames.com/en-EN/home)
 
 
 Xavier
