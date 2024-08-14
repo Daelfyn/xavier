@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/welcome-to-xavier-s-theories-and-speculations-database/","tags":["gardenEntry"]}
 ---
 
+# Welcome to Xavier's Theories and Speculations Database
+
 
 ![3 Xavier wallpaper.jpeg](/img/user/3%20Xavier%20wallpaper.jpeg)
 
