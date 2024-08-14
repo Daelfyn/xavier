@@ -22,4 +22,8 @@ Xavier is able to fight monsters called Wanderers with the Protagonist and his E
 
 # Theories and Speculations
 
+Various parties have discussed these theories on many social media platforms, making it impossible to identify the "source" or "birth" of a theory.
+
+We thank the community for their enthusiasm. 
+
 [[Time Travel\|Time Travel]]
