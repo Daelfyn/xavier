@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/welcome-to-xavier-s-theories-and-speculations-database/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/welcome-to-xavier-s-theories-and-speculations-database/","pinned":true,"tags":["gardenEntry"]}
 ---
 
 # Welcome to Xavier's Theories and Speculations Database
